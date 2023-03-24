@@ -5,7 +5,6 @@ body {
 
 }
 
-
 hr {
     
     border-style: dotted none none none ;
@@ -17,6 +16,7 @@ hr {
 
 h1{
     color: #746AB0;
+   
 }
 h3{
     color: #746AB0;
@@ -28,4 +28,12 @@ h2{
 
 .moje_zdjecie{
     border-radius: 25%;
+
+
 }
+
+.moje_zdj{
+    
+}
+
+
